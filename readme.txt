@@ -3,7 +3,7 @@ Contributors: jchristopher
 Tags: search, live, ajax
 Requires at least: 3.9
 Tested up to: 5.9.1
-Stable tag: 1.7.2
+Stable tag: 1.6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,7 +11,7 @@ Template powered live search for any WordPress theme. Does not require SearchWP,
 
 == Description ==
 
-**Does not require** [SearchWP](https://searchwp.com/?utm_source=WordPress&utm_medium=Plugin+Readme+Requirement+Link&utm_campaign=Live+Ajax+Search&utm_content=SearchWP), but will utilize it if available. [Full documentation](https://searchwp.com/extensions/live-search/) is available at searchwp.com.
+**Does not require** [SearchWP](https://searchwp.com/?utm_source=wordpressorg&utm_medium=link&utm_content=readme&utm_campaign=liveajaxsearch), but will utilize it if available. [Full documentation](https://searchwp.com/extensions/live-search/) is available at searchwp.com.
 
 Contributions welcome on GitHub! [https://github.com/jchristopher/searchwp-live-ajax-search/](https://github.com/jchristopher/searchwp-live-ajax-search/)
 
@@ -19,7 +19,7 @@ SearchWP Live Ajax Search enables AJAX powered live search for your search forms
 
 = Works best with SearchWP (but SearchWP is not necessary) =
 
-SearchWP Live Ajax Search *is best utilized* in conjunction with [SearchWP](https://searchwp.com/?utm_source=WordPress&utm_medium=Plugin+Readme+Best+Link&utm_campaign=Live+Ajax+Search&utm_content=SearchWP), but **it is not required**. If SearchWP is installed and activated, SearchWP Live Ajax Search can be customized to use any of your search engines *per search form*.
+SearchWP Live Ajax Search *is best utilized* in conjunction with [SearchWP](https://searchwp.com/?utm_source=wordpressorg&utm_medium=link&utm_content=readme&utm_campaign=liveajaxsearch), but **it is not required**. If SearchWP is installed and activated, SearchWP Live Ajax Search can be customized to use any of your search engines *per search form*.
 
 = Customization =
 
@@ -75,24 +75,6 @@ SearchWP Live Ajax Search uses a filter — <a href="https://searchwp.com/exten
 4. SearchWP Live Ajax Search Widget Advanced
 
 == Changelog ==
-
-= 1.7.2 =
-* Adds a compatibility with the upcoming version of the SearchWP Modal Search Form plugin.
-* Fixes an issue with a legacy version of the SearchWP plugin.
-
-= 1.7.1 =
-* Fixes the translations of the plugin.
-
-= 1.7.0 =
-* Adds new Settings admin page to control the behavior of the plugin easier.
-* Introduces significant code refactoring to improve performance.
-
-= 1.6.3 =
-* Improves sanitization of the 'swpengine' search field argument.
-* Standardizes direct access restrictions in classes throughout the plugin.
-
-= 1.6.2 =
-* Limits the arguments passed to the query when used with the WordPress native search.
 
 = 1.6.1 =
 * Fixes PHP Notice introduced in 1.6.0

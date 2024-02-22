@@ -4,9 +4,9 @@ SearchWP Live Ajax Search enables AJAX powered live search for your search forms
 
 Designed to be a developer's best friend, SearchWP Live Ajax Search aims to stay out of your way but at the same time allowing you to customize everything about it. It's set up to work with any WordPress theme and uses a template loader to display results. The template based approach allows you to seamlessly customize your SearchWP Live Search implementation without messing with dozens of cluttered options.
 
-## Works best with [SearchWP](https://searchwp.com/?utm_source=WordPress&utm_medium=Plugin+Readme+Best+Link&utm_campaign=Live+Ajax+Search&utm_content=SearchWP) (but SearchWP is not necessary)
+## Works best with [SearchWP](https://searchwp.com/?utm_source=github&utm_medium=link&utm_content=readme&utm_campaign=liveajaxsearch) (but SearchWP is not necessary)
 
-SearchWP Live Ajax Search *is best utilized* in conjunction with [SearchWP](https://searchwp.com/?utm_source=WordPress&utm_medium=Plugin+Readme+Requirement+Link&utm_campaign=Live+Ajax+Search&utm_content=SearchWP), but **it is not required**. If SearchWP is installed and activated, SearchWP Live Ajax Search can be customized to use any of your search engines *per search form*.
+SearchWP Live Ajax Search *is best utilized* in conjunction with [SearchWP](https://searchwp.com/?utm_source=github&utm_medium=link&utm_content=readme&utm_campaign=liveajaxsearch), but **it is not required**. If SearchWP is installed and activated, SearchWP Live Ajax Search can be customized to use any of your search engines *per search form*.
 
 ### Customization
 

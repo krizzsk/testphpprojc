@@ -17,11 +17,6 @@
  *
  * You can use ~/searchwp-live-search/assets/styles/style.css as a guide to customize
  */
-
-// exit if accessed directly
-if ( ! defined( 'ABSPATH' ) ) {
-    exit;
-}
 ?>
 
 <?php if ( have_posts() ) : ?>

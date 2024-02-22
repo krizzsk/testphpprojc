@@ -4,7 +4,7 @@
   "description": "",
   "main": "assets/javascript/src/searchwp-live-ajax-search.js",
   "scripts": {
-    "watch": "rollup -c -w --environment BUILD:production --context window"
+    "watch": "rollup -c -w --environment BUILD:production"
   },
   "author": "",
   "dependencies": {

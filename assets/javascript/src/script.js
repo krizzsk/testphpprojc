@@ -379,7 +379,7 @@ import {Spinner} from 'spin.js';
 				complete: function(){
 					jQuery(document).trigger( "searchwp_live_search_complete", [ $input, $results, $form, action, values ] );
 					self.spinner_showing = false;
-					// self.hide_spinner();
+					self.hide_spinner();
 					this.current_request = false;
 					jQuery(document).trigger( "searchwp_live_search_shutdown", [ $input, $results, $form, action, values ] );
 				},

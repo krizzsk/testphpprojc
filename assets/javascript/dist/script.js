@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    var __assign = (window && window.__assign) || function () {
+    var __assign = (undefined && undefined.__assign) || function () {
         __assign = Object.assign || function(t) {
             for (var s, i = 1, n = arguments.length; i < n; i++) {
                 s = arguments[i];
@@ -570,7 +570,7 @@
     				complete: function(){
     					jQuery(document).trigger( "searchwp_live_search_complete", [ $input, $results, $form, action, values ] );
     					self.spinner_showing = false;
-    					// self.hide_spinner();
+    					self.hide_spinner();
     					this.current_request = false;
     					jQuery(document).trigger( "searchwp_live_search_shutdown", [ $input, $results, $form, action, values ] );
     				},
